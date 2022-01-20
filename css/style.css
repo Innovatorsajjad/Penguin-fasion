@@ -1,0 +1,37 @@
+/* google_fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;700&display=swap');
+/*-------------------------------------------------------------------------
+                               Common Tags
+ ---------------------------------------------------------------------------- */
+ .golden_color{
+     color: #FABE4C;
+ }
+ .green_color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+ }
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h3{  
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h4{
+    color: #363958;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+
+}
+/* ------------------------------------------------------------------------------
+                                   First_banner
+------------------------------------------------------------------------------- */
+.inner_texts{
+    width: 480px;  
+}
